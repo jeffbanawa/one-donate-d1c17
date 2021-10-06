@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Donations made simple
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      To provide a simple centralized platform that will allow everyone to
+      contribute, monitor, and see the impact their donations make on the world
     actions:
       - label: Learn More
         url: /features
